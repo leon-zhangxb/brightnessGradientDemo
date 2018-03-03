@@ -1,0 +1,2 @@
+# brightnessGradientDemo
+iOS仿支付宝二维码页面调节屏幕亮度
